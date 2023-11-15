@@ -4,6 +4,22 @@ What is AWS QnABOT?
 
 ![image](https://github.com/redjules/Build-an-Amazon-Connect-Call-Center-using-Amazon-Lex-/assets/106017493/adb5ee39-13b0-4132-bcc5-4691a37ac632)
 
+Key features:
+
+![image](https://github.com/redjules/Build-an-Amazon-Connect-Call-Center-using-Amazon-Lex-/assets/106017493/0bf8b33b-a48f-48f0-99af-df2f6cfc6d1d)
+
+How customers benefit from AWS QnABot?
+
+![image](https://github.com/redjules/Build-an-Amazon-Connect-Call-Center-using-Amazon-Lex-/assets/106017493/0349391a-a4d7-4bc2-908e-bf40f60f0167)
+
+AWS QnABot use cases:
+
+![image](https://github.com/redjules/Build-an-Amazon-Connect-Call-Center-using-Amazon-Lex-/assets/106017493/003ba749-c32f-4f8e-b042-4688cdfbdbde)
+
+Contact center implementations
+![image](https://github.com/redjules/Build-an-Amazon-Connect-Call-Center-using-Amazon-Lex-/assets/106017493/96a3b20f-29c2-4949-ae34-84c683a491c0)
+
+
 
 Architecture:
 ![image](https://github.com/redjules/Build-an-Amazon-Connect-Call-Center-using-Amazon-Lex-/assets/106017493/5aa6fa88-b6f3-48da-9972-437ed743c567)
